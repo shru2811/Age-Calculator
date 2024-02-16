@@ -37,6 +37,7 @@ body{
     outline: none;
     font-size: 20px;
     padding-left: 5px;
+    cursor: pointer;
 }
 .calculate{
     padding: 15px 20px;
@@ -44,11 +45,11 @@ body{
     border: none;
     font-size: 15px;
     background-color: rgb(255, 255, 94);
+    cursor: pointer;
 }
 .Age{
     font-family:"Poppins";
     font-size: 20px;
     letter-spacing: 1px;
     font-weight: 100;
-    
 }
